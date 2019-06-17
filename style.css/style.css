@@ -1,0 +1,293 @@
+.button1{
+    border: 2px solid grey;
+    color: rgb(60, 60, 60);
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-left: 100px;
+    font-family: sans-serif;
+}
+.button2{
+    border: 2px solid yellow;
+    color:rgb(60, 60, 60);
+    text-decoration: none;
+    padding: 12px; 
+    margin-left: 100px;
+    font-family: sans-serif;
+ 
+}
+.button3{
+    border: 2px solid red;
+    color: rgb(60, 60, 60);
+    text-decoration:none;
+    padding: 12px;
+    margin-left: 100px;
+    font-family: sans-serif; 
+
+}
+.button4{
+    border: 2px solid blue;
+    color: rgb(60, 60, 60);
+    text-decoration: none;
+    padding: 12px;
+    margin-left: 100px;
+    font-family: sans-serif;
+}
+.sample1{
+    background-color: grey;
+    color:white;
+    padding: 15px;
+    margin-left: 100px;
+    font-family: sans-serif;
+    text-decoration: none;
+    
+
+}
+.sample2{
+    background-color: yellow;
+    color: black;
+    padding: 15px;
+    margin-left: 100px;
+    font-family: sans-serif;
+    text-decoration: none;
+    
+}
+.sample3{
+    background-color:tomato;
+    color:white;
+    padding: 15px;
+    margin-left: 100px;
+    font-family:sans-serif;
+    text-decoration: none;
+}
+.sample4{
+    background: rgb(151, 151, 170);
+    color: black;
+    padding: 15px;
+    margin-left: 100px;
+    font-family:  sans-serif;
+    text-decoration: none;
+}
+.sample5{
+    background: rgb(103, 103, 211);
+    color: white;
+    padding: 15px;
+    margin-left: 100px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.sample1a{
+    background-color: rgb(70, 70, 70);
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: 500px;
+    border-radius: 10px 10px 10px 0px;
+    font-family: sans-serif;
+}
+.sample2a{
+    background-color: rgb(70, 70, 70);
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: 500px;
+    border-radius: 10px 10px 0px 10px;
+    font-family: sans-serif;
+}
+.sample3a{
+    background-color: rgb(70, 70, 70);
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: 500px;
+    border-radius: 10px 0px 10px 10px;
+    font-family: sans-serif;
+}
+.sample4a{
+    background-color: rgb(70, 70, 70);
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: 500px;
+    border-radius: 0px 10px 10px 10px;
+    font-family: sans-serif;
+
+}
+.sample5a{
+    background-color: rgb(70, 70, 70);
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: 500px;
+    border-radius: 10px 10px 0px 0px;
+    font-family: sans-serif; 
+}
+.sample6a{
+    background-color: rgb(70, 70, 70);
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: 500px;
+    border-radius: 0px 0px 10px 10px;
+    font-family: sans-serif;
+}
+.sample7a{
+    background-color: rgb(70, 70, 70);
+    text-decoration:  none;
+    color: white;
+    padding: 10px;
+    margin-left: 500px;
+    border-radius: 0px 10px 10px 0px;
+    font-family: sans-serif;
+}
+.sample8a{
+    background-color: rgb(70, 70, 70);
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: 500px;
+    border-radius: 10px 0px 0px 10px;
+    font-family: sans-serif;
+}
+.sample1b{
+    background-color: brown;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: 500px;
+    border-radius: 5px;
+    font-family: sans-serif
+}
+.sample2b{
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    padding:10px;
+    margin-left:500px;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+.sample3b{
+    background-color: green;
+    text-decoration: none;
+    color:white;
+    margin-left:500px;
+    padding:10px;
+    border-radius: 15px;
+    font-family: sans-serif;
+}
+.sample4b{
+    background-color: yellow;
+    text-decoration: none;
+    color:white;
+    margin-left:500px;
+    padding:10px;
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+.button1a{
+    background-color: transparent;
+    text-decoration: none;
+    color:grey;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 100px;
+}
+.button2a{
+    background-color: rgb(82, 82, 180);
+    text-decoration: none;
+    color:white;
+    padding: 5px;
+    margin: 10px;
+    margin-left: 50px;
+    font-size: 9px;
+    border-radius: 4px;
+}
+.button3a{
+    background-color: rgb(82, 82, 180);
+    text-decoration: none;
+    color:white;
+    padding: 5px;
+    margin:10px;
+    margin-left:50px;
+    font-size:15px;
+    border-radius: 5px;
+}
+.button4a{
+    background-color: rgb(82, 82, 180);
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    margin: 10px;
+    margin-left: 50px;
+    font-size:20px;
+    border-radius: 6px;
+
+}
+.button5a{
+    background-color: rgb(82, 82, 180);
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    margin: 10px;
+    margin-left: 50px;
+    font-size: 9px;
+    border-radius: 14px;
+}
+.button6a{
+    background-color: rgb(82, 82, 180);
+    color: white;
+    text-decoration: none;
+    padding:5px;
+    margin: 10px;
+    margin-left: 50px;
+    font-size:15px;
+    border-radius: 14px;
+
+}
+.button7a{
+    background-color: rgb(82, 82, 180);
+    color:white;
+    text-decoration: none;
+    padding:15px;
+    margin:10px;
+    margin-left:50px;
+    font-size:20px;
+    border-radius: 25px;
+} 
+blockquote{
+    padding-left:20px;
+    border-left: 2px solid grey;
+    color: grey;
+}
+.bg-img{
+    background-image: url(../images/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-top: 300px;
+}
+.demo{
+    background-color: rgb(128, 128, 226);
+    color:white;
+    padding:15px;
+    margin:20px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+.purchase{
+    background-color: rgb(128, 128, 226);
+    color: white;
+    padding: 15px;
+    text-decoration:none;
+    border-radius: 15px;
+    margin:20px;
+    
+}
+.concept1{
+    font-size:30px;
+    color: white;
+}
+.concept2{
+    font-size: 70px;
+    color: white;
+}
